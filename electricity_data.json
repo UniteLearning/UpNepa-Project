@@ -1,0 +1,675 @@
+{
+    "2024-04-25": {
+        "Atiku": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "Egbejila": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        " Asadam": {
+            "morning": " ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Asadam": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Saw-Mill": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "AL-HIKMAH": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "S O J": {
+            "morning": "ON",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "EYENKORIN": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Adewole": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "LAO": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        }
+    },
+    "2024-04-26": {
+        "Atiku": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Egbejila": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        " Asadam": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Asadam": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Saw-Mill": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "AL-HIKMAH": {
+            "morning": "ON",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "S O J": {
+            "morning": "ON",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "EYENKORIN": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Adewole": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "LAO": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        }
+    },
+    "2024-04-27": {
+        "Atiku": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "Egbejila": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        " Asadam": {
+            "morning": "ON",
+            "afternoon": " OFF",
+            "evening": " OFF"
+        },
+        "Asadam": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Saw-Mill": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "AL-HIKMAH": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "S O J": {
+            "morning": "OFF ",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "EYENKORIN": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Adewole": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "LAO": {
+            "morning": "ON",
+            "afternoon": "ON",
+            "evening": "ON"
+        }
+    },
+    "2024-04-28": {
+        "Atiku": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "Egbejila": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        " Asadam": {
+            "morning": "ON",
+            "afternoon": " OFF",
+            "evening": " OFF"
+        },
+        "Asadam": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Saw-Mill": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "AL-HIKMAH": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "S O J": {
+            "morning": "ON",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "EYENKORIN": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Adewole": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        }
+    },
+    "2024-04-29": {
+        "Atiku": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Egbejila": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        " Asadam": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Asadam": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Saw-Mill": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "AL-HIKMAH": {
+            "morning": "ON",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "S O J": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "EYENKORIN": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Adewole": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        }
+    },
+    "2024-04-30": {
+        "Atiku": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "Egbejila": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        " Asadam": {
+            "morning": "ON",
+            "afternoon": " OFF",
+            "evening": " OFF"
+        },
+        "Asadam": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Saw-Mill": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "AL-HIKMAH": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "S O J": {
+            "morning": "ON",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "EYENKORIN": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Adewole": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        }
+    },
+    "2024-05-01": {
+        "Atiku": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Egbejila": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        " Asadam": {
+            "morning": " ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Asadam": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Saw-Mill": {
+            "morning": "ON",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "AL-HIKMAH": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "S O J": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "EYENKORIN": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Adewole": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        }
+    },
+    "2024-05-02": {
+        "Atiku": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "Egbejila": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        " Asadam": {
+            "morning": "ON",
+            "afternoon": " OFF",
+            "evening": " OFF"
+        },
+        "Asadam": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Saw-Mill": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "AL-HIKMAH": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "S O J": {
+            "morning": "OFF ",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "EYENKORIN": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Adewole": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        }
+    },
+    "2024-05-03": {
+        "Atiku": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Egbejila": {
+            "morning": "ON",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        " Asadam": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Asadam": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Saw-Mill": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "AL-HIKMAH": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "S O J": {
+            "morning": "ON",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "EYENKORIN": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Adewole": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        }
+    },
+    "2024-05-04": {
+        "Atiku": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "Egbejila": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        " Asadam": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Asadam": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Saw-Mill": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "AL-HIKMAH": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "S O J": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "EYENKORIN": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Adewole": {
+            "morning": "OFF",
+            "afternoon": "OFF ",
+            "evening": "OFF "
+        }
+    },
+    "2024-05-05": {
+        "Atiku": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Egbejila": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        " Asadam": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Asadam": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "Saw-Mill": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "AL-HIKMAH": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "S O J": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "EYENKORIN": {
+            "morning": "ON",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "Adewole": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        }
+    },
+    "2024-05-06": {
+        "Atiku": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "Egbejila": {
+            "morning": "ON",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        " Asadam": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Asadam": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Saw-Mill": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "AL-HIKMAH": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "S O J": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "EYENKORIN": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Adewole": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        }
+    },
+    "2024-05-07": {
+        "Atiku": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Egbejila": {
+            "morning": "ON",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        " Asadam": {
+            "morning": "ON",
+            "afternoon": " OFF",
+            "evening": " OFF"
+        },
+        "Asadam": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Saw-Mill": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "AL-HIKMAH": {
+            "morning": "ON",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "S O J": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "EYENKORIN": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Adewole": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        }
+    },
+    "2024-05-08": {
+        "Atiku": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "Egbejila": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        " Asadam": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Asadam": {
+            "morning": "OFF",
+            "afternoon": "ON",
+            "evening": "ON"
+        },
+        "Saw-Mill": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "AL-HIKMAH": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "S O J": {
+            "morning": "ON",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "EYENKORIN": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        },
+        "Adewole": {
+            "morning": "OFF",
+            "afternoon": "OFF",
+            "evening": "OFF"
+        }
+    }
+}

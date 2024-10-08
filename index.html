@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Electricity Management System</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <style>
+        #map {
+            height: 500px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Electricity Management System</h1>
+    <label for="date">Select Date:</label>
+    <input type="date" id="date" value="2024-04-25">
+    <div>
+        <label><input type="radio" name="time" value="morning" checked> Morning</label>
+        <label><input type="radio" name="time" value="afternoon"> Afternoon</label>
+        <label><input type="radio" name="time" value="evening"> Evening</label>
+    </div>
+    <div id="map"></div>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const map = L.map('map').setView([8.53733, 4.54439], 13);
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 19,
+            }).addTo(map);
+
+            const locations = {
+                'Atiku': [8.53733, 4.58],
+                'Egbejila': [8.43985, 4.5245],
+                'Asadam': [8.45097, 4.54959],
+                'Saw-Mill': [8.544992287815896, 4.5458143596363],
+                'AL-HIKMAH': [8.48332, 4.50563],
+                'S O J': [8.470003052388272, 4.525049105572686],
+                'EYENKORIN': [8.40478, 4.47212],
+                'Adewole': [8.481492533433716, 4.514391915467727],
+                'LAO': [8.53733, 4.54439]
+            };
+
+            let electricityData;
+
+            const fetchData = async () => {
+                if (!electricityData) {
+                    const response = await fetch('electricity_data.json');
+                    electricityData = await response.json();
+                }
+            };
+
+            const updateMap = async () => {
+                await fetchData();
+
+                const date = document.getElementById('date').value;
+                const time = document.querySelector('input[name="time"]:checked').value;
+                const data = electricityData[date];
+
+                // Clear existing circles
+                map.eachLayer((layer) => {
+                    if (layer instanceof L.Circle) {
+                        map.removeLayer(layer);
+                    }
+                });
+
+                for (const [name, coords] of Object.entries(locations)) {
+                    const status = data[name][time];
+                    const color = status === 'ON' ? 'green' : 'red';
+
+                    L.circle(coords, {
+                        color: color,
+                        fillColor: color,
+                        fillOpacity: 0.5,
+                        radius: 1500
+                    }).addTo(map).bindPopup(`${name}: ${status}`);
+                }
+            };
+
+            document.getElementById('date').addEventListener('change', updateMap);
+            document.querySelectorAll('input[name="time"]').forEach(radio => {
+                radio.addEventListener('change', updateMap);
+            });
+
+            updateMap();
+        });
+    </script>
+</body>
+</html>
